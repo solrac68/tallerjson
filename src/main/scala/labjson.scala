@@ -1,7 +1,4 @@
-import labjson.PRETTY_PRINT_IDENT_FACTOR
 import org.json.{JSONException, XML};
-
-
 
 
 object labjson extends App{
